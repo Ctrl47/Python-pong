@@ -95,20 +95,3 @@ while True:
         and Ball.ycor() > - 100:
         Ball.dx *= -1.1
        
-
-
-
-    
-
-
-
-
-
-
-    
-
-
-
-
-
-
